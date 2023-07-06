@@ -1,10 +1,10 @@
 # FrenetTenth
-The code will be released after the conference EMSOFT23
+The code will be released after the conference [EMSOFT23](https://esweek.org/), on late September 2023.
 
 ## Authors
 * **Filippo Muzzini** - [fmuzzini](https://github.com/fmuzzini)
 * **Federico Ramanzin** - [FedeRama](https://github.com/FedeRama)
-## PM
+## Project Managers
 * **Paolo Burgio** - [pburgio](https://github.com/pburgio)
 * **Nicola Capodieci** - [ncapodieci](https://git.hipert.unimore.it/ncapodieci)
 
