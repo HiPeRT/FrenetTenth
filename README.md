@@ -25,3 +25,34 @@ The code is part of the following paper, which will be presented at the [EMSOFT2
 
 ## AD Project
 This repository is part of the autonomous driving project of the University of Modena and Reggio Emilia, [read more](https://hipert.github.io/ad_site/).
+
+### Dependencies
+- [Eigen/Dense](https://eigen.tuxfamily.org/dox/GettingStarted.html)
+- [matplotlib-cpp](https://github.com/lava/matplotlib-cpp)
+- [nlohmann/json](https://github.com/nlohmann/json)
+
+### Install dependencies
+```
+sudo apt-get install build-essential cmake libeigen3-dev python3-matplotlib python3-numpy
+
+```
+
+```
+cd include
+git clone https://github.com/nlohmann/json.git
+
+```
+
+## compile
+
+```
+mkdir build
+cd build
+cmake ..
+make
+cd ..
+```
+
+## run
+
+`./measuring_experiments_<cpu|gpu>_<double|float|half>`
