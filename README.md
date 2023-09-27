@@ -38,7 +38,7 @@ cd ..
 
 
 ## Citation
-The code is part of the following paper, which will be presented at the [EMSOFT23](https://esweek.org/) conference, on late September 2023. It will be released afterwards.
+The code is part of the following paper, which was presented at the [EMSOFT23](https://esweek.org/) conference.
 ```
 @article{muzzini2023frenet,
   author={Muzzini, Filippo and Capodieci, Nicola and Ramanzin, Federico and Burgio, Paolo},
