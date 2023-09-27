@@ -40,15 +40,17 @@ cd ..
 ## Citation
 The code is part of the following paper, which will be presented at the [EMSOFT23](https://esweek.org/) conference, on late September 2023. It will be released afterwards.
 ```
-@inproceedings{muzziniFrenet,
-  title={Optimized Local Path Planner implementation for GPU-accelerated embedded systems},
+@article{muzzini2023frenet,
   author={Muzzini, Filippo and Capodieci, Nicola and Ramanzin, Federico and Burgio, Paolo},
-  booktitle={The ACM SIGBED International Conference on Embedded Software (EMSOFT)},
-  volume={},
-  pages={},
+  journal={IEEE Embedded Systems Letters}, 
+  title={Optimized Local Path Planner Implementation for GPU-Accelerated Embedded Systems}, 
   year={2023},
-  organization={ACM}
+  volume={},
+  number={},
+  pages={1-1},
+  doi={10.1109/LES.2023.3298733}
 }
+
 ```
 
 ## Authors
