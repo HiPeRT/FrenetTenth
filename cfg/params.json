@@ -1,0 +1,32 @@
+{
+    "kj": 0.01,
+    "kt": 0.1,
+    "kd": 2.0,
+    "klat": 1.0,
+    "klon": 1.0,
+
+    "max_speed": 10.0,
+    "max_accel": 10.0,
+    "max_curvature": 10.0,
+
+    "max_road_width": 2.0,
+    "max_road_width_left": 1.0,
+    "max_road_width_right": 1.0,
+    "d_road_w": 0.05,
+    "dt": 0.1,
+    "maxt": 2.0,
+    "mint": 2.0,
+    "target_speed": 5.0,
+    "d_t_s": 1.0,
+    "n_s_sample": 0.5,
+    
+    "robot_radius": 0.5,
+    "safe_distance": 0.1,
+    "range_path_check": 1,
+    "next_s_borders": 50,
+
+    "check_derivatives": false,
+
+    "iteration_limit": 118,
+    "distance_to_goal": 0.05
+}
