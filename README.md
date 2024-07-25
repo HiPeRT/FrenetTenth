@@ -34,7 +34,11 @@ cd ..
 
 ### run
 
-`./measuring_experiments_<cpu|gpu>_<double|float|half>
+
+```
+./measuring_experiments_<cpu|gpu>_<double|float|half>
+
+```
 
 
 ## Citation
