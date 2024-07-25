@@ -38,17 +38,19 @@ cd ..
 
 
 ## Citation
-The code is part of the following paper, which was presented at the [EMSOFT23](https://esweek.org/) conference.
+The code is part of the following paper. If you use this code in accademic work, please cite us.
 ```
-@article{muzzini2023frenet,
-  author={Muzzini, Filippo and Capodieci, Nicola and Ramanzin, Federico and Burgio, Paolo},
-  journal={IEEE Embedded Systems Letters}, 
-  title={Optimized Local Path Planner Implementation for GPU-Accelerated Embedded Systems}, 
-  year={2023},
-  volume={},
-  number={},
-  pages={1-1},
-  doi={10.1109/LES.2023.3298733}
+@article{MUZZINI2024GPUFrenet,
+  title = {GPU implementation of the Frenet Path Planner for embedded autonomous systems: A case study in the F1tenth scenario},
+  journal = {Journal of Systems Architecture},
+  volume = {154},
+  pages = {103239},
+  year = {2024},
+  issn = {1383-7621},
+  doi = {https://doi.org/10.1016/j.sysarc.2024.103239},
+  url = {https://www.sciencedirect.com/science/article/pii/S1383762124001760},
+  author = {Filippo Muzzini and Nicola Capodieci and Federico Ramanzin and Paolo Burgio},
+  keywords = {Planning, Autonomous vehicle, Parallel, GPU, Racing},
 }
 
 ```
